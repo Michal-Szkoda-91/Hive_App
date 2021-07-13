@@ -1,6 +1,6 @@
 # hive_app
 
-Aplikacja zrealizowana w ramach projektu na studia. Jest to program wyświetlający dane z czujników w Ulach. Czujniki mierzą wilgotność, temperaturę oraz wagę w konkretnym ulu. Dane reprezentowane są jako wykres ostatnich 10 godzin dla poszczególnej wartości. 
+Aplikacja zrealizowana wraz z kolegą w ramach projektu na studia. Jest to program wyświetlający dane z czujników w Ulach. Czujniki mierzą wilgotność, temperaturę oraz wagę w konkretnym ulu. Dane reprezentowane są jako wykres ostatnich 10 godzin dla poszczególnej wartości. 
 
 Wszystkie dane przechowywane są na serwerze Firebase - Realtime Database. Aplikacja korzysta również z autoryzacji Firebase. Informacje pobierane są z użyciem standardowego REST API. 
 
