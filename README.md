@@ -7,4 +7,11 @@ Wszystkie dane przechowywane są na serwerze Firebase - Realtime Database. Aplik
 Moim zadaniem w projekcie było zbudowanie aplikacji we Fluterze, połączenie do bazy danych oraz wyświetlenie informacji dostarczonych przez czujniki Arduino w formie wykresów. 
 
 W projekcie brak historii commitów ponieważ był realizowany na innym koncie. Dlatego został utworzony na nowo. Został również zakutalizowany do Flutter 2.0.
-![Screenshot_20210712-124901](https://user-images.githubusercontent.com/68157494/125455017-31d6933c-5021-4d12-b99e-5f2653a3eef1.jpg)![Screenshot_20210712-125404](https://user-images.githubusercontent.com/68157494/125455036-107e6c91-f39e-4640-b142-019cb0d4c48e.jpg)![Screenshot_20210712-131257](https://user-images.githubusercontent.com/68157494/125455042-dcc563fa-549f-4fe8-ae0d-59dae8067c54.jpg)
+![Hnet com-image](https://user-images.githubusercontent.com/68157494/125455302-4a181842-b770-491a-b704-20e0ed08521c.jpg)![Hnet com-image (1)](https://user-images.githubusercontent.com/68157494/125455509-f6e2e5a2-480c-4e11-a112-af1ba4423948.jpg)![Hnet com-image (2)](https://user-images.githubusercontent.com/68157494/125455521-b39d2154-6391-4e79-bce0-f857bb529aaa.jpg)
+![Hnet com-image (5)](https://user-images.githubusercontent.com/68157494/125455569-74e2ccd7-b820-4abe-ac4f-fb0991c38977.jpg)![Hnet com-image (7)](https://user-images.githubusercontent.com/68157494/125455617-ceee86a6-1c4b-4919-afa7-4b4c9699d263.jpg)![Hnet com-image (9)](https://user-images.githubusercontent.com/68157494/125455634-4be6ca97-41a7-4007-9bf7-fbf7b166ad9d.jpg)
+
+
+
+
+
+
