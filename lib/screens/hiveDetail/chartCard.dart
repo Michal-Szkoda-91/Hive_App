@@ -47,14 +47,23 @@ class _ChartCardState extends State<ChartCard> {
                   widget.hive.tempInsideDate,
                   '°C',
                 ),
+                SizedBox(
+                  height: 30,
+                ),
                 buildContainer(context, 'Wilgotność: ', widget.hive.humidity,
                     widget.hive.humidityDate, '%'),
+                SizedBox(
+                  height: 30,
+                ),
                 buildContainer(
                   context,
                   'Waga: ',
                   widget.hive.weight,
                   widget.hive.weightDate,
                   'kg',
+                ),
+                SizedBox(
+                  height: 30,
                 ),
                 buildContainer(
                   context,
@@ -103,7 +112,11 @@ class _ChartCardState extends State<ChartCard> {
         ),
         bottomTitles: SideTitles(
           showTitles: true,
-          reservedSize: 3,
+          reservedSize: 20,
+        ),
+        rightTitles: SideTitles(
+          showTitles: true,
+          reservedSize: 25,
         ),
       ),
       borderData: FlBorderData(

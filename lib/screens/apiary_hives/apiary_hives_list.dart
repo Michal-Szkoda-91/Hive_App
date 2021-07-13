@@ -14,7 +14,7 @@ class ApiaryHivesList extends StatelessWidget {
       backgroundColor: Colors.blueGrey[200],
       appBar: AppBar(
         title: Text('Twoje ule - ' + apiary.apiaryName),
-        backgroundColor: Colors.blueGrey[400],
+        backgroundColor: Colors.deepOrange[900],
       ),
       body: Container(
         decoration: BoxDecoration(

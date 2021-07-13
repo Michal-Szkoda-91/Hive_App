@@ -42,7 +42,7 @@ class _HiveDetailScreenState extends State<HiveDetailScreen> {
     return Scaffold(
       backgroundColor: Colors.blueGrey[200],
       appBar: AppBar(
-        backgroundColor: Colors.blueGrey[400],
+        backgroundColor: Colors.deepOrange[900],
         title: Text(widget.hive.name),
         actions: [
           Padding(
@@ -116,7 +116,7 @@ class _HiveDetailScreenState extends State<HiveDetailScreen> {
     return Container(
       width: double.infinity,
       child: Card(
-        color: Colors.blueGrey[50],
+        color: Colors.deepOrange[200],
         margin: EdgeInsets.all(10),
         elevation: 15,
         child: Padding(
@@ -165,7 +165,7 @@ class _HiveDetailScreenState extends State<HiveDetailScreen> {
     return Container(
       height: 80,
       child: Card(
-        color: Colors.blueGrey[50],
+        color: Colors.deepOrange[200],
         margin: EdgeInsets.all(10),
         elevation: 15,
         child: Padding(
@@ -227,7 +227,7 @@ class _HiveDetailScreenState extends State<HiveDetailScreen> {
     return Container(
       height: 80,
       child: Card(
-        color: Colors.blueGrey[50],
+        color: Colors.deepOrange[200],
         margin: EdgeInsets.all(10),
         elevation: 15,
         child: Padding(
@@ -280,7 +280,7 @@ class _HiveDetailScreenState extends State<HiveDetailScreen> {
     return Container(
       height: 80,
       child: Card(
-        color: Colors.blueGrey[50],
+        color: Colors.deepOrange[200],
         margin: EdgeInsets.all(10),
         elevation: 15,
         child: Padding(
@@ -311,7 +311,7 @@ class _HiveDetailScreenState extends State<HiveDetailScreen> {
     return Container(
       height: 80,
       child: Card(
-        color: Colors.blueGrey[50],
+        color: Colors.deepOrange[200],
         margin: EdgeInsets.all(10),
         elevation: 15,
         child: Padding(
@@ -325,8 +325,8 @@ class _HiveDetailScreenState extends State<HiveDetailScreen> {
               ),
               TextButton(
                 style: ButtonStyle(
-                    backgroundColor:
-                        MaterialStateProperty.all<Color>(Colors.blueGrey[200])),
+                    backgroundColor: MaterialStateProperty.all<Color>(
+                        Colors.deepOrange[400])),
                 child: Text(
                   dateTime,
                   style: TextStyle(fontSize: 22, color: Colors.black),

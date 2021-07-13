@@ -16,10 +16,10 @@ class _AddApiaryScreenState extends State<AddApiaryScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blueGrey[200],
+      backgroundColor: Colors.deepOrange[400],
       appBar: AppBar(
         title: Text('Utwórz pasiekę'),
-        backgroundColor: Colors.blueGrey[400],
+        backgroundColor: Colors.deepOrange[900],
       ),
       body: Container(
         child: Padding(

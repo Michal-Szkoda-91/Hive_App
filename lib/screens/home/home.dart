@@ -20,7 +20,7 @@ class Home extends StatelessWidget {
         backgroundColor: Colors.blueGrey[200],
         appBar: AppBar(
           title: Text('Twoje pasieki'),
-          backgroundColor: Colors.blueGrey[400],
+          backgroundColor: Colors.deepOrange[900],
           elevation: 0.0,
           actions: [
             TextButton(

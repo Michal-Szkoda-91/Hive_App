@@ -26,7 +26,7 @@ class _SignInState extends State<SignIn> {
         ? Loading()
         : Scaffold(
             appBar: AppBar(
-              backgroundColor: Colors.blueGrey[400],
+              backgroundColor: Colors.deepOrange[900],
               elevation: 0.0,
               title: Text('Logowanie'),
               actions: [

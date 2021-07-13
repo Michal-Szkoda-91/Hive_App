@@ -27,10 +27,10 @@ class _AddHiveScreenState extends State<AddHiveScreen> {
   Widget build(BuildContext context) {
     _notesController.text = notes;
     return Scaffold(
-      backgroundColor: Colors.orange[200],
+      backgroundColor: Colors.deepOrange[400],
       appBar: AppBar(
         title: Text('Dodaj nowy UL'),
-        backgroundColor: Colors.orange[600],
+        backgroundColor: Colors.deepOrange[900],
       ),
       body: Container(
         child: Padding(
